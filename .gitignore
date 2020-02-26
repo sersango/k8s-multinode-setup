@@ -1,0 +1,6 @@
+# JetBrains
+.DS_Store
+.idea
+
+# K8s temporal files 
+kubernetes-setup/join-command
