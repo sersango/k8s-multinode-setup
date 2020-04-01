@@ -2,5 +2,8 @@
 .DS_Store
 .idea
 
+# Vagrant
+.vagrant
+
 # K8s temporal files 
 kubernetes-setup/join-command
